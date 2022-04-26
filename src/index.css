@@ -1,3 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Space+Mono:wght@400;700&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+html,
+body {
+  @apply bg-cyan-lightest;
+  font-family: "Roboto", sans-serif;
+  font-family: "Space Mono", monospace;
+}
