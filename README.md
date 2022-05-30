@@ -1,21 +1,19 @@
 # tip-calculator-app 小費計算機
 
----
-
-##參考:
+##參考:  
 https://www.youtube.com/watch?v=oVmLNvF-C5o&list=WL&index=1&t=7s
 
 ---
 
-##功能介紹:
-輸入帳單金額，選擇小費%或自訂%，設定人數來計算出
+##功能介紹:  
+輸入帳單金額，選擇小費%或自訂%，設定人數來計算出  
 個人小費平均及總和平均。
 
 ---
 
-##學習目標:
-1.vitawind
-2.tailwindcss
+##學習目標:  
+1.vitawind  
+2.tailwindcss  
 3.npm clsx
 
 ---
