@@ -1,6 +1,7 @@
 # tip-calculator-app 小費計算機
 
-##參考:  
+## 參考:
+
 https://www.youtube.com/watch?v=oVmLNvF-C5o&list=WL&index=1&t=7s
 
 ---
@@ -11,7 +12,8 @@ https://www.youtube.com/watch?v=oVmLNvF-C5o&list=WL&index=1&t=7s
 
 ---
 
-##學習目標:  
+## 學習目標:
+
 1.vitawind  
 2.tailwindcss  
 3.npm clsx
